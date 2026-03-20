@@ -24,4 +24,4 @@ O objetivo deste projeto é criar um aplicativo web para análise exploratória 
    `streamlit run app.py`
 
 ## Link do aplicativo no Render
-Adicione aqui depois da publicação.
+https://projeto-sprint-5-p08a.onrender.com/
